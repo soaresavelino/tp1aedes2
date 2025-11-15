@@ -28,7 +28,8 @@ Este programa simula a persistência de registros de alunos em um arquivo binár
 
 ## Compilação
 
-Abra o terminal na pasta do projeto e execute o comando:
+Abra o terminal na pasta do projeto e execute os comandos:
 
 ```bash
-gcc main.c aluno.c bloco.c gerador.c salvar_original.c -o tp1.exe
+gcc main.c
+./tp1.exe
