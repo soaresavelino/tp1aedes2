@@ -26,7 +26,7 @@ Este programa simula a persistência de registros de alunos em um arquivo binár
 - **GCC** (MinGW no Windows ou GCC no Linux/macOS)
 - **Terminal ou Prompt de Comando**
 
-## INformações
+## Informações
 
 A exclusão dos registros é feita de forma lógica, ou seja, os dados não são removidos fisicamente do arquivo, mas marcados como excluídos. Esse espaço pode ser reutilizado em futuras inserções, reduzindo o desperdício de armazenamento.
 
