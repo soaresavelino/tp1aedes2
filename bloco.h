@@ -1,6 +1,7 @@
 #ifndef BLOCO_H
 #define BLOCO_H
 
+#include <stdio.h>
 typedef struct {
     int id;
     int bytesUsados;

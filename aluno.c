@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 // Gera aluno fictício
 Aluno gerarAlunoFicticio(int id) {
     Aluno a;
