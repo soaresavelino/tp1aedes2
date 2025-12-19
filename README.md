@@ -1,4 +1,4 @@
-# Trabalho Prático 01 - Manipulação e Organização de Arquivos de Dados
+﻿# Trabalho Prático 01 - Manipulação e Organização de Arquivos de Dados
 
 ## Disciplina
 Algoritmos e Estruturas de Dados II
@@ -34,7 +34,7 @@ Abra o terminal na pasta do projeto e execute os comandos:
 gcc main.c
 ./tp1.exe
 
-Continuação – Trabalho Prático 02 (TP2)
+## Continuação  Trabalho Prático 02 (TP2)
 
 O Trabalho Prático 02 é uma continuação do TP1 e tem como objetivo aprimorar o gerenciamento dos registros armazenados em arquivo binário. Neste trabalho, foram implementadas operações de inserção, edição e exclusão lógica de registros, permitindo o reaproveitamento do espaço liberado dentro dos blocos.
 
@@ -43,3 +43,4 @@ A exclusão dos registros é feita de forma lógica, ou seja, os dados não são
 Também foi implementada a funcionalidade de reorganização (compactação) do arquivo, que realoca apenas os registros válidos de forma contínua, diminuindo a fragmentação interna e melhorando a ocupação dos blocos.
 
 Por fim, o sistema apresenta estatísticas, permitindo comparar a situação do arquivo antes e depois da reorganização e analisar os ganhos obtidos com a compactação.
+
