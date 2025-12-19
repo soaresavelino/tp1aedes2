@@ -16,3 +16,4 @@ void gravarBloco(FILE *arquivo, Bloco *b);
 void exibirMapaBlocos(int totalBlocos, int *ocupacao, int tamanhoBloco);
 
 #endif
+// Gera uma lista de alunos fictícios

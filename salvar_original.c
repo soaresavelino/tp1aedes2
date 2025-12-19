@@ -3,7 +3,7 @@
 
 #include "salvar_original.h"
 
-// Salva o arquivo original exatamente como está na memória (BINARIO)
+// Salva o arquivo original exatamente como está na memória (BINARIO).
 void salvarOriginal(Aluno *alunos, int n) {
     FILE *f = fopen("alunos_original.dat", "wb");
     if (!f) {

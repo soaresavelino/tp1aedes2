@@ -1,6 +1,7 @@
 #ifndef ALUNO_H
 #define ALUNO_H
 
+// Estrutura do Aluno
 typedef struct {
     int matricula;
     char nome[50];

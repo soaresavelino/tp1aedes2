@@ -7,3 +7,4 @@ Aluno *gerarListaAlunos(int n);
 void salvarOriginal(Aluno *alunos, int n);
 
 #endif
+// Gera uma lista de alunos fictícios

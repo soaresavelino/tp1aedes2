@@ -11,3 +11,5 @@ Aluno *gerarListaAlunos(int n) {
     }
     return lista;
 }
+
+// Salva o arquivo original exatamente como está na memória (BINARIO).

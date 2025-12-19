@@ -7,7 +7,7 @@
 
 #define PADDING_CHAR '#'
 
-// Preenche uma string com caractere de preenchimento
+// Preenche uma string com caractere de preenchimento.
 void padString(char *str, size_t targetLength) {
     size_t len = strlen(str);
     for (size_t i = len; i < targetLength; i++)
@@ -15,4 +15,5 @@ void padString(char *str, size_t targetLength) {
     str[targetLength] = '\0';
 }
 
+// Remove caracteres de preenchimento de uma string.
 #endif
