@@ -34,7 +34,7 @@ Abra o terminal na pasta do projeto e execute os comandos:
 gcc main.c
 ./tp1.exe
 
-Continuação – Trabalho Prático 02 (TP2)
+## Continuação – Trabalho Prático 02 (TP2)
 
 O Trabalho Prático 02 é uma continuação do TP1 e tem como objetivo aprimorar o gerenciamento dos registros armazenados em arquivo binário. Neste trabalho, foram implementadas operações de inserção, edição e exclusão lógica de registros, permitindo o reaproveitamento do espaço liberado dentro dos blocos.
 
